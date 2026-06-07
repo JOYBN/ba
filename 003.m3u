@@ -397,3 +397,5 @@ http://27.124.71.27/T-Sports/index.m3u8
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", GTV
 http://103.204.43.87:8080/live/1/1/283.m3u8
+#EXTINF:0 type="stream" channelId="-1", Green TV HD
+https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
