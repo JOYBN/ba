@@ -216,8 +216,8 @@ http://100.100.100.98:4518/Ten-Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ZEE News
 
-#EXTINF:0 type="stream" channelId="-1", ABP News
-
+#EXTINF:0 type="stream" channelId="-1", NDTV
+http://103.175.73.12:8080/live/107/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", GEO News
 
 #EXTINF:0 type="stream" channelId="-1", ARY News
@@ -317,7 +317,7 @@ http://10.20.30.40:8088/502/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", AAJ TAK HD
 
 #EXTINF:0 type="stream" channelId="-1", NDTV
-
+http://103.175.73.12:8080/live/107/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", NDTV India
 
 #EXTINF:0 type="stream" channelId="-1", Discovery Science
